@@ -17,15 +17,6 @@
     </item>
     
     <item>
-      <title>Posteo 2.0 Entrevista</title>
-      <link>https://ncarter-r.github.io/docs/post3/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://ncarter-r.github.io/docs/post3/</guid>
-      <description>Entrevista a Constanza Izquierdo, Ingeniera en alimentos.</description>
-    </item>
-    
-    <item>
       <title>Unidad 1</title>
       <link>https://ncarter-r.github.io/docs/post2/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
@@ -35,21 +26,21 @@
     </item>
     
     <item>
-      <title>Ejemplo Shortcodes</title>
-      <link>https://ncarter-r.github.io/docs/ejemplo/</link>
+      <title>Posteo 2.0 Entrevista</title>
+      <link>https://ncarter-r.github.io/docs/post3/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://ncarter-r.github.io/docs/ejemplo/</guid>
-      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+      <guid>https://ncarter-r.github.io/docs/post3/</guid>
+      <description>Entrevista a Constanza Izquierdo, Ingeniera en alimentos.</description>
     </item>
     
     <item>
-      <title>Ejemplos Markdown</title>
-      <link>https://ncarter-r.github.io/docs/markdown/</link>
+      <title>Ejercicio de fotogrametría con alimentos</title>
+      <link>https://ncarter-r.github.io/docs/post4/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://ncarter-r.github.io/docs/markdown/</guid>
-      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+      <guid>https://ncarter-r.github.io/docs/post4/</guid>
+      <description>Resultados experimentación con fotogrametría.</description>
     </item>
     
   </channel>
