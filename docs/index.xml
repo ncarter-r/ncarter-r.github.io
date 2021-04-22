@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Post 2.1 Tutoriales de Fusion on Nicolás Carter Ruiz - Taller Producto 2021</title>
+    <title>Taller Integrado MID 2021 on Nicolás Carter Ruiz - Taller Producto 2021</title>
     <link>https://ncarter-r.github.io/docs/</link>
-    <description>Recent content in Post 2.1 Tutoriales de Fusion on Nicolás Carter Ruiz - Taller Producto 2021</description>
+    <description>Recent content in Taller Integrado MID 2021 on Nicolás Carter Ruiz - Taller Producto 2021</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://ncarter-r.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
@@ -44,12 +44,12 @@
     </item>
     
     <item>
-      <title>Ejercicio de fotogrametría con alimentos</title>
+      <title>Post 2.1 Tutoriales de Fusion</title>
       <link>https://ncarter-r.github.io/docs/post5/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
       
       <guid>https://ncarter-r.github.io/docs/post5/</guid>
-      <description>Resultados experimentación con fotogrametría.</description>
+      <description>Resultados de los tutoriales de Fusion 360.</description>
     </item>
     
   </channel>
