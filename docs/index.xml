@@ -52,5 +52,14 @@
       <description>Resultados de los tutoriales de Fusion 360.</description>
     </item>
     
+    <item>
+      <title>Origami &#43; Fotografias</title>
+      <link>https://ncarter-r.github.io/docs/post6/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>https://ncarter-r.github.io/docs/post6/</guid>
+      <description>Origami con la extensión de Grasshopper en Rhino, además de la primera iteración de nuestros platos.</description>
+    </item>
+    
   </channel>
 </rss>
